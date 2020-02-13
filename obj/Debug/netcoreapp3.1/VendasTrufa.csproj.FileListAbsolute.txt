@@ -1,0 +1,11 @@
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.exe
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.deps.json
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.runtimeconfig.json
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.runtimeconfig.dev.json
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.dll
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\bin\Debug\netcoreapp3.1\VendasTrufa.pdb
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\obj\Debug\netcoreapp3.1\VendasTrufa.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\obj\Debug\netcoreapp3.1\VendasTrufa.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\obj\Debug\netcoreapp3.1\VendasTrufa.AssemblyInfo.cs
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\obj\Debug\netcoreapp3.1\VendasTrufa.dll
+C:\Users\etec\Desktop\VendasTrufa\VendasTrufa\obj\Debug\netcoreapp3.1\VendasTrufa.pdb
